@@ -1,0 +1,14 @@
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/data/Answer.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/value/SingleValue.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/data/Question.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/view/View.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/parser/XMLParser.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/parser/FactParser.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/parser/RuleParser.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/value/MultipleValue.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/repository/FactRepository.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/Main.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/repository/RuleRepository.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/value/Value.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/data/Fact.java
+/home/darski/codecool/java/si/si5/expert-system-dariusz/src/main/java/com/codecool/esprovider/ESProvider.java
